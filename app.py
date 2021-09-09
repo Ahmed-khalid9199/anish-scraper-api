@@ -1,4 +1,3 @@
-import os
 import flask
 from flask import request, jsonify
 from flask_cors import CORS
